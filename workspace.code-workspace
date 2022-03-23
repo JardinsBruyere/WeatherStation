@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"name": "esp32",
+			"path": "esp32"
+		},
+		{
+			"name": "esp8266",
+			"path": "esp8266"
+		}
+	],
+    "settings": {
+        "files.associations": {
+            "optional": "cpp",
+            "ratio": "cpp",
+            "system_error": "cpp",
+            "array": "cpp",
+            "functional": "cpp",
+            "tuple": "cpp",
+            "type_traits": "cpp",
+            "utility": "cpp",
+            "istream": "cpp",
+            "ostream": "cpp"
+        }
+    }
+}

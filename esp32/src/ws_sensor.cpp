@@ -1,2 +1,0 @@
-//interface for weatherstation sensors
-
